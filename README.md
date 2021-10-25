@@ -1,10 +1,16 @@
 # Vladyslav_Shevchenko
 ## Basic_knowledge.py
 
-file containing 7 different functions
+файл, що містить 7 різних функцій
 
-__Project setup__
+__Програмні налаштування__
 
 ```
 pip install numpy
 ```
+__________
+ Автор проекту __Владислав Шевченко__
+  ___________
+ __Контакти__
+ 
+  Пошта автора проекту [shevavlad1974@gmail.com](shevavlad1974@gmail.com)
