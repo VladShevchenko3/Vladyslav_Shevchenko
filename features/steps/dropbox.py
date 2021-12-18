@@ -1,5 +1,5 @@
 from behave import *
-from features.main import *
+from main import *
 import os
 
 
