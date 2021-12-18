@@ -1,5 +1,5 @@
 from behave import *
-from main_dropbox import *
+from main import *
 import os
 
 uploadRequest = UploadRequest()
