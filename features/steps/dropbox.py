@@ -1,8 +1,8 @@
-from behave.__main__ import main as behave_main
+from behave import *
 from main import *
 import os
 
-behave_main("clear/features")
+
 uploadRequest = UploadRequest()
 metadataRequest = GetFileMetadataRequest()
 deleteRequest = DeleteRequest()
