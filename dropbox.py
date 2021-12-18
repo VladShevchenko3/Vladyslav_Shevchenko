@@ -1,5 +1,5 @@
-from behave import *
-from main import *
+import behave
+import  main
 import os
 
 uploadRequest = UploadRequest()
